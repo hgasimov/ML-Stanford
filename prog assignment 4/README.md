@@ -2,6 +2,7 @@ Programming Exercise 4: Neural Networks Learning
 =========================
 
 Introduction
+
 In this exercise, you will implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition. 
 Before starting on the programming exercise, we strongly recommend watching the video lectures and completing the review questions for the associated topics.
 To get started with the exercise, you will need to download the starter code and unzip its contents to the directory where you wish to complete the exercise. 
