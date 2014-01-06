@@ -1,4 +1,4 @@
-ML-Stanford
+Machine Learning - Stanford
 ===========
 
 This is an online course at coursera from Stanford university about machine learning. 
