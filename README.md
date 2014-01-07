@@ -3,8 +3,6 @@ Machine Learning - Stanford
 
 This is an online course at coursera from Stanford university about machine learning. 
 
-The course link is https://class.coursera.org/ml-004/class
-
 Course Syllabus: 
 
 1. Introduction to Machine Learning. Univariate linear regression. (Optional: Linear algebra review.)
@@ -17,3 +15,6 @@ Course Syllabus:
 8. Anomaly detection.
 9. Recommender systems.
 10. Large-scale machine learning. An example of an application of machine learning.
+
+
+The course link is https://class.coursera.org/ml-004/class
