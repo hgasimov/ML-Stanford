@@ -1,5 +1,4 @@
-Programming Exercise 7: K-means Clustering 
-and Principal Component Analysis
+Programming Exercise 7: K-means Clustering and Principal Component Analysis
 =============
 
 Introduction
